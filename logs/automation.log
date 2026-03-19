@@ -1,0 +1,337 @@
+2026-03-16 23:47:26 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-16 23:47:26 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-16 23:47:26 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-16 23:47:26 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-16 23:58:12 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-16 23:58:12 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-16 23:58:12 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-16 23:58:12 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:10:58 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:10:58 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:10:58 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:10:59 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:16:19 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:16:19 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:16:19 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:16:19 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:18:45 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:18:45 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:18:45 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:18:46 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:20:04 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:20:04 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:20:04 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:20:04 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:22:00 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:22:00 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:22:00 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:22:00 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:33:06 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:33:06 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:33:06 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:33:06 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:37:47 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-17 00:37:47 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:37:47 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:37:47 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-17 00:44:42 [main] INFO  base.BaseTest - starting test setup
+2026-03-17 00:44:42 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:44:42 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:44:42 [main] INFO  base.BaseTest - Closing browser
+2026-03-17 00:50:22 [main] INFO  base.BaseTest - starting test setup
+2026-03-17 00:50:22 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:50:22 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:50:22 [main] INFO  base.BaseTest - Closing browser
+2026-03-17 00:50:26 [main] INFO  base.BaseTest - starting test setup
+2026-03-17 00:50:26 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-17 00:50:26 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-17 00:50:26 [main] INFO  utils.ReportUtils - Entering username
+2026-03-17 00:50:27 [main] INFO  utils.ReportUtils - Clicking login button
+2026-03-17 00:50:29 [main] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-17 00:50:29 [main] INFO  base.BaseTest - Closing browser
+2026-03-18 23:16:25 [main] INFO  base.BaseTest - starting test setup
+2026-03-18 23:16:25 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-18 23:16:25 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-18 23:16:25 [main] INFO  base.BaseTest - Closing browser
+2026-03-18 23:17:13 [main] INFO  base.BaseTest - starting test setup
+2026-03-18 23:17:13 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-18 23:17:13 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-18 23:17:14 [main] INFO  base.BaseTest - Closing browser
+2026-03-18 23:40:01 [main] INFO  base.BaseTest - starting test setup
+2026-03-18 23:40:01 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-18 23:40:01 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-18 23:40:01 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:28:00 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:28:00 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:28:00 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:28:00 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:28:06 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:28:06 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:28:06 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:28:06 [main] INFO  utils.ReportUtils - Entering username
+2026-03-19 00:28:07 [main] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 00:28:14 [main] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 00:28:14 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:28:18 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:28:18 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:28:18 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:28:18 [main] INFO  utils.ReportUtils - Entering username
+2026-03-19 00:28:19 [main] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 00:28:30 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:31:16 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:31:16 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:31:16 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:31:16 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:31:21 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:31:21 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:31:21 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:31:21 [main] INFO  utils.ReportUtils - Entering username
+2026-03-19 00:31:22 [main] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 00:31:24 [main] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 00:31:24 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 00:31:28 [main] INFO  base.BaseTest - starting test setup
+2026-03-19 00:31:28 [main] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 00:31:28 [main] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 00:31:28 [main] INFO  utils.ReportUtils - Entering username
+2026-03-19 00:31:29 [main] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 00:31:31 [main] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 00:31:31 [main] INFO  base.BaseTest - Closing browser
+2026-03-19 13:30:38 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:30:38 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:30:38 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:30:38 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 13:33:41 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:33:41 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:33:41 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:33:41 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 13:34:36 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:34:36 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:34:36 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:34:36 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 13:52:53 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:52:53 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:52:53 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:52:53 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 13:55:43 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:55:43 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:55:43 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:55:43 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 13:57:09 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 13:57:09 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 13:57:09 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 13:57:09 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 14:17:13 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 14:17:13 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 14:17:13 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 14:17:13 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 14:17:20 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 14:17:20 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 14:17:20 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 14:17:20 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 14:17:20 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 14:17:20 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 14:17:20 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 14:17:20 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 14:17:22 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 14:17:23 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 14:17:27 [TestNG-PoolService-2] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 14:17:27 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 14:17:28 [TestNG-PoolService-1] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 14:17:29 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 15:48:08 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:48:09 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:48:22 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 15:48:22 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:48:22 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:48:23 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 15:48:23 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:48:23 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:48:23 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:48:23 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:48:40 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 15:48:40 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:48:40 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:48:40 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 15:48:41 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 15:48:41 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:48:41 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:48:41 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 15:48:50 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 15:48:50 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 15:49:00 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 15:49:16 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 15:49:46 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:49:46 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:50:03 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 15:50:03 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:50:03 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:50:03 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 15:50:03 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:50:03 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 15:50:03 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:50:03 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 15:50:21 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 15:50:21 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:50:21 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:50:21 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 15:50:24 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 15:50:24 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 15:50:24 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 15:50:24 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 15:50:30 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 15:50:35 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 15:51:06 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:00:19 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:00:19 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:00:29 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:00:29 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:00:29 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:00:29 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:00:29 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:00:29 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:00:29 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:00:29 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:00:39 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:00:39 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:00:39 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:00:39 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:00:42 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 16:00:42 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:00:42 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:00:42 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:00:45 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:00:49 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:01:05 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:01:08 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 16:02:34 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:02:34 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:02:46 [TestNG-tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:02:46 [TestNG-tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:02:46 [TestNG-tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:02:46 [TestNG-tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:02:46 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:02:46 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:02:46 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:02:46 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:03:00 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 16:03:00 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:03:00 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:03:00 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:03:00 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:03:00 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:03:00 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:03:00 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:03:05 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:03:06 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:03:16 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 16:03:20 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:04:50 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:04:51 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:04:51 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:04:51 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:04:51 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:04:51 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:05:27 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 16:05:27 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:05:27 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:05:27 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:05:27 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:05:27 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:05:27 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:05:27 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:05:27 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:05:27 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:05:27 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:05:27 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:05:28 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:05:29 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:05:31 [TestNG-PoolService-1] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 16:05:31 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:05:49 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 16:41:01 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:41:01 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:41:01 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:41:01 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:41:01 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:41:01 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:41:10 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:41:10 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:41:10 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:41:10 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:41:10 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 16:41:10 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:41:10 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:41:10 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:41:11 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:41:11 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:41:11 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:41:11 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:41:11 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:41:12 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:41:14 [TestNG-PoolService-1] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 16:41:14 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:41:42 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 16:47:07 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:47:07 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:47:07 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:47:07 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:47:07 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:47:07 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:47:15 [TestNG-PoolService-2] INFO  base.BaseTest - starting test setup
+2026-03-19 16:47:15 [TestNG-PoolService-2] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:47:15 [TestNG-PoolService-2] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:47:15 [TestNG-PoolService-2] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:47:15 [TestNG-PoolService-2] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:47:16 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:47:16 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:47:16 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:47:16 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:47:16 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:47:16 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:47:16 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:47:16 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:47:17 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:47:20 [TestNG-PoolService-1] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 16:47:20 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:47:46 [TestNG-PoolService-2] INFO  base.BaseTest - Closing browser
+2026-03-19 16:48:55 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:48:55 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:48:55 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:48:55 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:49:03 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:49:03 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:49:03 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:49:03 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:49:03 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:49:03 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:49:03 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:49:03 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:49:04 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:51:07 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:51:07 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:51:07 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:51:07 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:51:14 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:51:14 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:51:14 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:51:14 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:51:15 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:51:15 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:51:15 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:51:15 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:51:16 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:57:16 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:57:16 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-19 16:57:16 [TestNG-test-Login Tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:57:16 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-19 16:57:24 [TestNG-test-Login Tests-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:57:24 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:57:24 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:57:24 [TestNG-test-Login Tests-1] INFO  base.BaseTest - Closing browser
+2026-03-19 16:57:25 [TestNG-PoolService-1] INFO  base.BaseTest - starting test setup
+2026-03-19 16:57:25 [TestNG-PoolService-1] INFO  base.BaseTest - Launching Browser: chrome
+2026-03-19 16:57:25 [TestNG-PoolService-1] INFO  base.BaseTest - Navigating to URL:https://opensource-demo.orangehrmlive.com/
+2026-03-19 16:57:25 [TestNG-PoolService-1] INFO  utils.ReportUtils - Entering username
+2026-03-19 16:57:26 [TestNG-PoolService-1] INFO  utils.ReportUtils - Clicking login button
+2026-03-19 16:57:30 [TestNG-PoolService-1] INFO  utils.ReportUtils - Validating dashboard is displayed
+2026-03-19 16:57:30 [TestNG-PoolService-1] INFO  base.BaseTest - Closing browser
