@@ -6,6 +6,8 @@ pipeline {
         jdk 'Java21'
     }
 
+    stages {
+
         stage('Build') {
             steps {
                 bat 'mvn clean install'
@@ -18,3 +20,4 @@ pipeline {
             }
         }
     }
+}
