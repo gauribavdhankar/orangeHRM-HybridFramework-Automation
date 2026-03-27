@@ -2,17 +2,9 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven3'   // same name as configured in Jenkins
-        jdk 'Java21'    // same name as configured in Jenkins
+        maven 'Maven3'
+        jdk 'Java21'
     }
-
-    stages {
-
-        stage('Checkout Code') {
-            steps {
-                git 'https://github.com/gauribavdhankar/orangeHRM-HybridFramework-Automation'
-            }
-        }
 
         stage('Build') {
             steps {
