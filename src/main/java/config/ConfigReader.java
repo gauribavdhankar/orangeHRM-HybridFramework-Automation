@@ -25,6 +25,12 @@ public class ConfigReader {
 		public static String get(String key) {
 			return properties.getProperty(key);
 		}
+		public String getExecutionMode() {
+			return properties.getProperty("execution.mode");
+		}
+		public String getGridUrl() {
+			return properties.getProperty("grid.url");
+		}
 		public String getUrl() {
 			return properties.getProperty("url");
 		}

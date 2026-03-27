@@ -21,7 +21,7 @@ public class DashboardPage {
 	
 	//verification
 	public boolean isDashboardDisplayed() {
-		waitUtils.waitForVisibility(dashboardHeader);
+		waitUtils.waitForElementVisible(dashboardHeader);
 		ReportUtils.info("Validating dashboard is displayed");
 		return driver.findElement(dashboardHeader).isDisplayed();
 	}

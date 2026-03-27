@@ -19,7 +19,7 @@ public class WaitUtils {
 		this.wait = new WebDriverWait(driver, Duration.ofSeconds(timeout));
 	}
 	
-	public WebElement waitForVisibility(By locator) {
+	public WebElement waitForElementVisible(By locator) {
 		return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
 	}
 	

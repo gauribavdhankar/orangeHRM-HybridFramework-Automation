@@ -17,6 +17,9 @@ public class LoginPage {
 	public LoginPage(WebDriver driver) {
 		this.driver = driver;
 		this.waitUtils = new WaitUtils(driver);
+		
+		// IMPORTANT → wait for page ready
+	    waitUtils.waitForElementVisible(usernameField);
 	}
 	
 	//Locators
@@ -26,7 +29,7 @@ public class LoginPage {
 	
 	public void enterUsername(String username) {
 		ReportUtils.info("Entering username");
-		waitUtils.waitForVisibility(usernameField).sendKeys(username);
+		waitUtils.waitForElementVisible(usernameField).sendKeys(username);
 	}
 	
 	public void enterPassword(String password) {

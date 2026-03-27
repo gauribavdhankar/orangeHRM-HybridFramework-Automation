@@ -18,27 +18,32 @@ public class ScreenshotUtils {
 			return null;
 		}
 		
-		TakesScreenshot ts = (TakesScreenshot) driver;
-		File source = ts.getScreenshotAs(OutputType.FILE);
-		
 		String timestamp = LocalDateTime.now()
-				.format(DateTimeFormatter.ofPattern("yyyyMMdd_HHmmss"));
+				.format(DateTimeFormatter.ofPattern("yyyyMMdd_HHmmss_SSS"));
 		
-		String fileName = testName + "_" + System.currentTimeMillis() + ".png";
+		long threadId = Thread.currentThread().threadId();
+		
+		String fileName = testName + "_T" + threadId + "_" + timestamp + ".png";
+		
+		String path = System.getProperty("user.dir") + "/screenshots/" + fileName;
 		
 		File directory = new File("screenshots");
 		if(!directory.exists()) {
-			directory.mkdir();
+			directory.mkdirs();
 		}
+				
+		try {			
+			File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+			File destination = new File(path);
+			
+			FileUtils.copyFile(src, destination);
+			
+			return path;
 		
-		File destination = new File(directory, fileName);		
-		try {
-			FileUtils.copyFile(source, destination);
 		}catch(IOException e) {
 			e.printStackTrace();
+			return null;
 		}
-		
-		return "screenshots/" + fileName;
 	}
 	
 }

@@ -36,12 +36,13 @@ public class ExtentListener implements ITestListener {
 		ExtentTestManager.getTest()
 			.log(Status.FAIL, result.getThrowable());
 			
-		//screenshot
+		//capture screenshot
 		String path = ScreenshotUtils.captureScreenshot(
 				DriverFactory.getDriver(),            //we will adjust this
 				result.getMethod().getMethodName()
 			);
 		
+		// Attach screenshot to report
 		if (path != null) {
 			ExtentTestManager.getTest()
 				.addScreenCaptureFromPath(path);

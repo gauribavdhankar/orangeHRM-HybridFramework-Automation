@@ -24,7 +24,9 @@ public class BaseTest {
 
 		DriverFactory.initDriver(
 				config.getBrowser(), 
-				config.isHeadless());
+				config.isHeadless(),
+				config.getExecutionMode(),
+				config.getGridUrl());
 		
 		DriverFactory.getDriver().manage().window().maximize();
 		DriverFactory.getDriver().get(config.getUrl());
